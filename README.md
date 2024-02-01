@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá Mundo! Bem vindo ao meu perfil do GitHub.
 
-<!--
-**phedrofelipe/phedrofelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou trabalhando como Analista de TI JR
+- 🌱 Atualmente estou estudando React
+- 😄 Pronouns: Ele/Dele
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" height="150" alt="phedrofelipe-js" src="https://github-readme-stats.vercel.app/api?username=phedrofelipe&hide=prs,issues&include_all_commits=true&show_icons=true&hide_rank=true&theme=tokyonight">
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phedrofelipe&hide_progress=false&layout=compact&theme=tokyonight">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phedrofelipe/phedrofelipe/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phedrofelipe/phedrofelipe/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/phedrofelipe/phedrofelipe/output/github-contribution-grid-snake.svg">
+</picture>
